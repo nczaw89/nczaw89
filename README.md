@@ -1,4 +1,5 @@
-Upgrade WS2008 to 2022
+**Window Server Upgrade **
+WS2008 R2 to 20200 cannot upgrade direct. Need to upgrade 2012R2 first. then can procced with upgrading to WS2022.
 
 
 
